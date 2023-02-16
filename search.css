@@ -1,0 +1,49 @@
+body {
+    background-color: gray;
+    
+}
+.main {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    padding-top: 100px;
+
+}
+.first {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+}
+#username {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    width: 200px;
+}
+.second {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+
+}
+#password {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    width: 200px;
+}
+div.second #password:hover {
+    background-color: aqua;
+}
+button {
+    text-align: center;
+    border: 3px solid black;
+    font-size: small;
+    background-color: pink;
+    font-weight: bold;
+}
+button:hover {
+    background-color: aqua;
+}

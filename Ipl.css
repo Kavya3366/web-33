@@ -1,0 +1,258 @@
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+h1 {
+   text-align: center;
+   text-decoration: underline;
+   color: black;
+   padding-top: 50px;
+
+}
+.title {
+    background-color: darkkhaki;
+    text-align: center;
+    border: 3px solid black;
+    
+}
+th {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: larger;
+    font-weight: bold;
+    border: 3px solid black;
+
+}
+.first {
+    background-color: pink;
+    border: 3px solid black;
+}
+tr.first td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.second {
+    background-color: cornflowerblue;
+    border: 3px solid black;
+}
+tr.second td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.third {
+    background-color: yellow;
+    border: 3px solid black ;
+}
+tr.third td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.fourth {
+    background-color: yellow;
+    border: 3px solid black ;
+
+}
+tr.fourth td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.fifth {
+    background-color: blueviolet;
+    border: 3px solid black ;
+}
+tr.fifth td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.six {
+    background-color:blue ;
+    border: 3px solid black ;
+
+}
+tr.six td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+
+}
+.seven {
+    background-color:blueviolet ;
+    border: 3px solid black ;
+}
+tr.seven td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.eight {
+    background-color:blue ;
+    border: 3px solid black ;
+
+}
+tr.eight td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.nine {
+    background-color:orangered ;
+    border: 3px solid black ;
+
+}
+tr.nine td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.ten {
+    background-color:blue ;
+    border: 3px solid black ;
+    
+}
+tr.ten td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.eleven {
+    background-color:yellow ;
+    border: 3px solid black ;
+
+}
+tr.eleven td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.twelve {
+    background-color:blue ;
+    border: 3px solid black ;
+
+}
+tr.twelve td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.thirteen {
+    background-color:blue ;
+    border: 3px solid black ;
+
+}
+tr.thirteen td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.fourteen {
+    background-color:yellow ;
+    border: 3px solid black ;
+
+}
+tr.fourteen td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+
+}
+.fifteen {
+    background-color:darkblue ;
+    border: 3px solid black ;
+}
+tr.fifteen td {
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 3px solid black ;
+}
+
+
+
+
+
